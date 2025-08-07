@@ -1,2 +1,18 @@
-# ignore execution files
+# Executable files
 *.exe
+*.out
+
+# Compiled object files
+*.o
+*.obj
+
+# Backup files
+*~
+*.bak
+
+# VS Code settings folder
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
