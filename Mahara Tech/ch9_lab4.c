@@ -19,14 +19,3 @@ int main(){
     printf("without padding:  %zu",sizeof(s1));
     
 }
-a.
-person.name
-
-b.
-*person.name
-
-c.
-(*person).name
-
-d.
-person-&gt;name
